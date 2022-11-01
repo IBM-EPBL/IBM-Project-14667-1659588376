@@ -1,2 +1,4 @@
-# IBM-Project-12166-1659439253
-Real-Time River Water Quality Monitoring and Control System
+# IBM-Project-
+Personal Assistance for Seniors Who Are Self-Reliant
+
+
